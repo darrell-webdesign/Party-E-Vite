@@ -1,0 +1,44 @@
+
+.title {
+    color: #00deff;
+    text-align: left;
+    font-size: 100px;
+    
+}
+
+.mainDiv{
+    font-size: 50px;
+    color: #00deff
+}
+
+h1{
+    background-color: darkblue
+        
+}
+
+body{
+    background-color: darkblue
+        
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+
+
+.firstdiv{
+    background-color: aquamarine;
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 50px;
+    top: 120px;
+    left: 300px;
+    overflow: hidden;
+}
+
+
